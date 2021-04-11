@@ -1,1 +1,1 @@
-(learn_test)
+console.error("HALP!")
